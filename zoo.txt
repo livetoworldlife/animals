@@ -1,3 +1,5 @@
 lion
 monkey
 crocodile
+fox
+elephant
